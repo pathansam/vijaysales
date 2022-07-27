@@ -1,2 +1,2 @@
 # vijaysales
-this repo contains containerised node js express js 
+This repository contains containerized node js express application for online shopping
